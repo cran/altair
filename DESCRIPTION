@@ -1,5 +1,5 @@
 Package: altair
-Version: 4.2.2
+Version: 4.2.3
 Title: Interface to 'Altair'
 Description: Interface to 'Altair' <https://altair-viz.github.io>, which itself 
   is a 'Python' interface to 'Vega-Lite' <https://vega.github.io/vega-lite/>.
@@ -40,7 +40,7 @@ Suggests: httr, rprojroot, purrr, readr, knitr, rmarkdown, tibble,
         pkgdown, V8, rsvg, png, fs
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-03-13 02:29:48 UTC; ijlyttle
+Packaged: 2023-09-04 01:22:53 UTC; ijlyttle
 Author: Ian Lyttle [aut, cre] (<https://orcid.org/0000-0001-9962-4849>),
   Haley Jeppson [aut],
   Altair Developers [aut],
@@ -49,4 +49,4 @@ Author: Ian Lyttle [aut, cre] (<https://orcid.org/0000-0001-9962-4849>),
   Brian Granger [ctb] (Altair library)
 Maintainer: Ian Lyttle <ijlyttle@me.com>
 Repository: CRAN
-Date/Publication: 2023-03-13 17:10:24 UTC
+Date/Publication: 2023-09-04 03:50:02 UTC
